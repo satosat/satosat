@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Satrio, currently pursuing my bachelor's in Computer Science at Bina Nusantara University (BINUS). 📚
 ____
 ### 🗒 Current Project(s):
-* [Excess](https://github.com/Aradhana-Indra-Daniswara/Excess), a food saving app as an entry to GEMASTIK 2022 made with React Native, Expo and Firebase
+* [JAJAN](https://github.com/Aradhana-Indra-Daniswara/JAJAN), a food saving app as an entry to GEMASTIK 2022 made with React Native, Expo and Firebase
 
 ### ⌨️ Technical Skills:
 * React Native
